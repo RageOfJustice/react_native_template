@@ -16,13 +16,13 @@
     "react-redux": "^5.0.7",
     "redux": "^4.0.0",
     "redux-actions": "^2.6.1",
-    "redux-forms": "^1.0.0-3",
+    "redux-form": "^7.4.2",
     "redux-saga": "^0.16.0",
     "styled-components": "^3.4.6"
   },
   "devDependencies": {
-    "babel-core": "^7.0.0-bridge.0",
     "@babel/core": "^7.0.0-0",
+    "babel-core": "^7.0.0-bridge.0",
     "babel-eslint": "^9.0.0",
     "babel-jest": "23.6.0",
     "eslint": "^5.6.0",
